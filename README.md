@@ -1,3 +1,6 @@
+App levantada con https://app.netlify.com/ || App deployed with https://app.netlify.com/
+https://splendorous-salmiakki-acb8de.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
